@@ -5,7 +5,7 @@ const typescript = require('typescript');
 const _ = require('lodash');
 
 const CRICUT_REPO_PATH = '../cricut/CricutDesignSpace';
-const TARGET_FOLDER_PATH = 'libs/';
+const TARGET_FOLDER_PATH = 'libs/user-profile';
 
 const UNABLE_TO_RESOLVE_VALUE = 'UNABLE_TO_RESOLVE_VALUE';
 
